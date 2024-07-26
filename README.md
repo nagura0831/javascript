@@ -1,2 +1,1 @@
-# javascript
-javascriptの基礎
+# javascriptの基礎
