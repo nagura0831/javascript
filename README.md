@@ -1,0 +1,2 @@
+# javascript
+javascriptの基礎
